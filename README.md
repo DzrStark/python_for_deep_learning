@@ -1,0 +1,2 @@
+# python_for_deep_learning
+个人学习Deep Learning时快速入门Python的一套代码，一共是十份文件，即可掌握从变量到异常处理的常用知识点，建议配合图灵社区的Python教程食用。
